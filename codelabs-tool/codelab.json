@@ -1,0 +1,40 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2021-08-27T10:13:04Z",
+  "id": "codelabs-tool",
+  "duration": 18,
+  "title": "Codelabs形式の手順を作ろう",
+  "authors": "kahori_takeda",
+  "summary": "ここにはサマリ情報を書きます。手順の概要ですね。ここに書いたことが何に影響するのかはわかっていません‥",
+  "source": "1bC7XPWQfVChO1LuAZbCIzI__qBV-n2UiHF6v_1Eh31A",
+  "theme": "web",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "Web"
+  ],
+  "tags": [
+    "cds17",
+    "chrome-dev-summit-2016",
+    "devfest18",
+    "gdd17",
+    "io2016",
+    "io2017",
+    "io2018",
+    "io2019",
+    "jsconfeu",
+    "kiosk",
+    "pwa-dev-summit",
+    "pwa-roadshow",
+    "tag-web",
+    "typtwd17",
+    "web"
+  ],
+  "feedback": "https://twitter.com/taketakekaho",
+  "ga": "UA-99999999-1",
+  "url": "codelabs-tool"
+}
