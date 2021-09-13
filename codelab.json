@@ -3,10 +3,10 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2021-09-13T04:37:45Z",
+  "updated": "2021-09-13T06:25:42Z",
   "id": "tis-teacher",
-  "duration": 18,
-  "title": "Codelabs形式の手順を作ろう",
+  "duration": 0,
+  "title": "講師研修 動画投稿の手引き",
   "authors": "y-okuda",
   "summary": "講師研修動画投稿手順",
   "source": "1bC7XPWQfVChO1LuAZbCIzI__qBV-n2UiHF6v_1Eh31A",
@@ -34,7 +34,6 @@
     "typtwd17",
     "web"
   ],
-  "feedback": "https://www.3sss.co.jp/tis/",
   "ga": "UA-99999999-1",
   "url": "tis-teacher"
 }
