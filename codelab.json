@@ -3,12 +3,12 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2021-08-27T10:13:04Z",
-  "id": "codelabs-tool",
+  "updated": "2021-09-13T04:37:45Z",
+  "id": "tis-teacher",
   "duration": 18,
   "title": "Codelabs形式の手順を作ろう",
-  "authors": "kahori_takeda",
-  "summary": "ここにはサマリ情報を書きます。手順の概要ですね。ここに書いたことが何に影響するのかはわかっていません‥",
+  "authors": "y-okuda",
+  "summary": "講師研修動画投稿手順",
   "source": "1bC7XPWQfVChO1LuAZbCIzI__qBV-n2UiHF6v_1Eh31A",
   "theme": "web",
   "status": [
@@ -34,7 +34,7 @@
     "typtwd17",
     "web"
   ],
-  "feedback": "https://twitter.com/taketakekaho",
+  "feedback": "https://www.3sss.co.jp/tis/",
   "ga": "UA-99999999-1",
-  "url": "codelabs-tool"
+  "url": "tis-teacher"
 }
